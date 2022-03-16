@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Example Content II
+title: Subcat-Test2-Post1
 description: >
   A page showing how regular markdown content is styled in Hydejack.
 image: /assets/img/blog/example-content-ii.jpg
 sitemap: false
+categories:
+  - subcat
+  - test2
 ---
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
@@ -18,7 +21,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 * toc
 {:toc .large-only}
 
-## Header 2
+## Subcat-Test2-Post1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
